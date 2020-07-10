@@ -1,21 +1,15 @@
 import React from "react";
-import { Icon, TouchableView, styled } from "bappo-components";
+import { Alert, View, Text } from "bappo-components";
+import { SquareButton, StyledButton } from "./myStyledComponents";
 
-export const SquareButton = (props) => {
-  const { iconName, ...rest } = props;
+export default () => {
   return (
-    <StyledButton {...rest}>
-      <Icon name={iconName} />
-    </StyledButton>
+    <View>
+      <SquareButton iconName="home" onPress={() => Alert.alert("Hello")} />
+      <SquareButton iconName="call" onPress={() => Alert.alert("Hello")} />
+      <StyledButton>
+        <Text>Hello</Text>
+      </StyledButton>
+    </View>
   );
 };
-
-export const StyledButton = styled(TouchableView)`
-  height: 70px;
-  width: 70px;
-  background-color: #ccf;
-  justify-content: center;
-  align-items: center;
-  margin: 12px;
-  border-radius: 5px;
-`;
