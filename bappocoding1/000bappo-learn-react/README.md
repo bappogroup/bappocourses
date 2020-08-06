@@ -34,5 +34,8 @@ React Native | Why do I need to know this? Video from Hernus coming soon
 &nbsp; | [The basic react-native components](https://reactnative.dev/docs/intro-react-native-components)
 &nbsp; | [React-native under the hood](https://www.youtube.com/watch?v=OnCio4h1J3M)
 React props and state | [React props](https://reactjs.org/docs/components-and-props.html)
-&nbsp | [React State](https://reactjs.org/docs/state-and-lifecycle.html)
-      | State in functional Components - Hernus to make a video 
+&nbsp; | [React State in Class Components](https://reactjs.org/docs/state-and-lifecycle.html)
+&nbsp; | State in Functional Components - Hernus to make a video
+Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0XScE08hy8)
+&nbsp; | [React dev tools video](https://www.youtube.com/watch?v=DQjMiKEwl_E) 
+Class Components vs Hooks | Hernus video coming soon
