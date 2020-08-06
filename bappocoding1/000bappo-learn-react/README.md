@@ -24,12 +24,12 @@ Object&nbsp;Oriented&nbsp;Javascript | Check out [this](https://www.youtube.com/
 If you can work your way through the above resources that will put you in a great starting position for React.
 
 ## Learning React
-Topic|Resources
+Topic|Getting Started|Advanced
 ---------|-----
 What&nbsp;you&nbsp;don't&nbsp;need | Video coming soon
 JSX | [What is JSX?](https://reactjs.org/docs/jsx-in-depth.html)
 How React works | [React under the hood](https://www.freecodecamp.org/news/react-under-the-hood/)
-React Native | Why do I need to know this? Video from Hernus coming soon
+React Native | Why do I need to know this?
 &nbsp; | [What is React Native](https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df)
 &nbsp; | [The basic react-native components](https://reactnative.dev/docs/intro-react-native-components)
 &nbsp; | [React-native under the hood](https://www.youtube.com/watch?v=OnCio4h1J3M)
@@ -40,8 +40,8 @@ Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0X
 &nbsp; | [React dev tools video](https://www.youtube.com/watch?v=DQjMiKEwl_E) 
 Class Components vs Hooks | Hernus video coming soon
 Mutating state | [Why state should be treated as immutable](https://www.youtube.com/watch?v=4LzcQyZ9JOU&t=211s)
-&nbsp; | Simple state mutation ?????????
-&nbsp; | immer ??????????
+&nbsp; | [Four ways to mutate state](https://www.freecodecamp.org/news/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5/)
+&nbsp; | [immer.js](https://www.youtube.com/watch?v=vsrhBUxfXQM)
 Keys | [Why list keys are important](https://www.youtube.com/watch?v=0sasRxl35_8)
 Class Components | [Class Component Syntax](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
 &nbsp; |[State and Lifecycle Methods](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
@@ -57,9 +57,8 @@ More hooks | [useContext](https://www.youtube.com/watch?v=lhMKvyLRWo0)
 &nbsp | [useCallback](https://www.youtube.com/watch?v=-Ls48dd-vJE)
 &nbsp | [useMemo](https://www.youtube.com/watch?v=RkBg0gDTLU8)
 Custom Hooks | [Custom Hooks docs](https://reactjs.org/docs/hooks-custom.html)
-&nbsp; [Custom Hooks video](https://www.youtube.com/watch?v=5JSigy8E6vk)
-React Composability | Hernus to make video here ????
-&nbsp; | [Higher Order Components](https://reactjs.org/docs/higher-order-components.html#use-hocs-for-cross-cutting-concerns)
+&nbsp; | [Custom Hooks video](https://www.youtube.com/watch?v=5JSigy8E6vk)
+React Composability | [Higher Order Components](https://reactjs.org/docs/higher-order-components.html#use-hocs-for-cross-cutting-concerns)
 &nbsp; | [Do hooks replace Higher Order Components](https://medium.com/javascript-scene/do-react-hooks-replace-higher-order-components-hocs-7ae4a08b7b58)
 React Performance | [Optimizing Performance (Class Components)](https://reactjs.org/docs/optimizing-performance.html) 
 &nbsp; | [Pure Components with React.memo](https://www.youtube.com/watch?v=o-alRbk_zP0)
