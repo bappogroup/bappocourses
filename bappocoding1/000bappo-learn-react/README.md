@@ -13,7 +13,7 @@ There are plenty of Javascript courses online. We recommend The Basic Javascript
 
 ## More Javascript resources
 Topic|Resources
----------------|-
+---------|-----
 ES6 |  [ES6 for React, 1 hour video](https://www.youtube.com/watch?v=NCwa_xi0Uuc&t=109s)
 &nbsp; | [Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 Promises | [Promises in 10 minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)  
@@ -21,3 +21,18 @@ Promises | [Promises in 10 minutes](https://www.youtube.com/watch?v=DHvZLI7Db8E)
 &nbsp; | [What is a promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 Object&nbsp;Oriented&nbsp;Javascript | Check out [this](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) youtube playlist by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg). If you dont have time for the whole course, at least watch #4 about Classes, #5 about Class constructors, and lesson #8 about Inheritance
 
+If you can work your way through the above resources that will put you in a great starting position for React.
+
+## Learning React
+Topic|Resources
+---------|-----
+What&nbsp;you&nbsp;don't&nbsp;need | Video coming soon
+JSX | [What is JSX?](https://reactjs.org/docs/jsx-in-depth.html)
+How React works | [React under the hood](https://www.freecodecamp.org/news/react-under-the-hood/)
+React Native | Why do I need to know this? Video from Hernus coming soon
+&nbsp; | [What is React Native](https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df)
+&nbsp; | [The basic react-native components](https://reactnative.dev/docs/intro-react-native-components)
+&nbsp; | [React-native under the hood](https://www.youtube.com/watch?v=OnCio4h1J3M)
+React props and state | [React props](https://reactjs.org/docs/components-and-props.html)
+&nbsp | [React State](https://reactjs.org/docs/state-and-lifecycle.html)
+      | State in functional Components - Hernus to make a video 
