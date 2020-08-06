@@ -44,7 +44,7 @@ Mutating state | [Why state should be treated as immutable](https://www.youtube.
 &nbsp; | immer ??????????
 Keys | [Why list keys are important](https://www.youtube.com/watch?v=0sasRxl35_8)
 Class Components | [Class Component Syntax](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
-[State and Lifecycle Methods](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
+&nbsp; |[State and Lifecycle Methods](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
 &nbsp; | [The problem with Class Components](https://itnext.io/react-class-components-are-dead-hint-not-yet-1d0a151173b8)
 Hooks | [Hooks Intro](https://reactjs.org/docs/hooks-intro.html)
 &nbsp; | [Hooks have important rules!!](https://reactjs.org/docs/hooks-rules.html)
