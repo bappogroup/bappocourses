@@ -38,7 +38,7 @@ React props and state | [React props](https://reactjs.org/docs/components-and-pr
 &nbsp; | State in Functional Components - refer to useState below
 Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0XScE08hy8)
 &nbsp; | [React dev tools video](https://www.youtube.com/watch?v=DQjMiKEwl_E) 
-Class Components vs Hooks | [Learn Class Components and Hooks at once?](https://vimeo.com/445472770/ace64e31ec)
+Class Components vs Hooks | [Class Component Gotchas and Hooks Gotchas](https://vimeo.com/445472770/ace64e31ec)
 Mutating state | [Why state should be treated as immutable](https://www.youtube.com/watch?v=4LzcQyZ9JOU&t=211s)
 &nbsp; | [Four ways to mutate state](https://www.freecodecamp.org/news/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5/)
 &nbsp; | [immer.js](https://www.youtube.com/watch?v=vsrhBUxfXQM)
