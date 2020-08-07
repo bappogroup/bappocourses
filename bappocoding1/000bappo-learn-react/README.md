@@ -29,7 +29,7 @@ Topic    |   Getting Started   |Advanced
 What&nbsp;you&nbsp;don't&nbsp;need | [What you dont need to learn](https://vimeo.com/445431272/99599f7a74)
 JSX | [What is JSX?](https://reactjs.org/docs/jsx-in-depth.html)
 How React works | [React under the hood](https://www.freecodecamp.org/news/react-under-the-hood/)
-React Native | [Why do I need to know about react-native]()
+React Native | [Why do I need to learn about react-native?](https://vimeo.com/445446985/01569eee6e)
 &nbsp; | [What is React Native](https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df) 
 &nbsp; | [The basic react-native components](https://reactnative.dev/docs/intro-react-native-components)
 &nbsp; | [React-native under the hood](https://www.youtube.com/watch?v=OnCio4h1J3M)
