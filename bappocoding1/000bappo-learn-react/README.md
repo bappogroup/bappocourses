@@ -27,7 +27,8 @@ If you can work your way through the above resources that will put you in a grea
 Topic    |   Getting Started   |Advanced
 ---------|---------------------|--------
 What&nbsp;you&nbsp;don't&nbsp;need | [What you dont need to learn](https://vimeo.com/445431272/99599f7a74)
-JSX | [What is JSX?](https://reactjs.org/docs/jsx-in-depth.html)
+Concepts | [React Main Concepts](https://reactjs.org/docs/hello-world.html)
+First Tutoral|  [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html) | [What is JSX?](https://reactjs.org/docs/jsx-in-depth.html)
 How React works | [React under the hood](https://www.freecodecamp.org/news/react-under-the-hood/)
 React Native | [Why do I need to learn about react-native?](https://vimeo.com/445446985/01569eee6e)
 &nbsp; | [What is React Native](https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df) 
@@ -38,18 +39,21 @@ React props and state | [React props](https://reactjs.org/docs/components-and-pr
 &nbsp; | State in Functional Components - refer to useState below
 Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0XScE08hy8)
 &nbsp; | [React dev tools video](https://www.youtube.com/watch?v=DQjMiKEwl_E) 
-Class Components vs Hooks | [Class Component Gotchas and Hooks Gotchas](https://vimeo.com/445472770/ace64e31ec)
-Mutating state | [Why state should be treated as immutable](https://www.youtube.com/watch?v=4LzcQyZ9JOU&t=211s)
+**Mutating state** | [Why state should be treated as immutable](https://www.youtube.com/watch?v=4LzcQyZ9JOU&t=211s)
 &nbsp; | [Four ways to mutate state](https://www.freecodecamp.org/news/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5/)
 &nbsp; | [immer.js](https://www.youtube.com/watch?v=vsrhBUxfXQM)
 Keys | [Why list keys are important](https://www.youtube.com/watch?v=0sasRxl35_8)
-Class Components | [Class Component Syntax](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
-&nbsp; |[State and Lifecycle Methods](https://reactjs.org/docs/components-and-props.html#function-and-class-components)
-&nbsp; | [The problem with Class Components](https://itnext.io/react-class-components-are-dead-hint-not-yet-1d0a151173b8)
+Class Components vs Hooks | [Learning Class Component vs Learning Hooks](https://vimeo.com/445472770/ace64e31ec)
+Class Components | [Class Component Syntax](https://reactjs.org/docs/components-and-props.html#function-and-class-components) | [React.Component reference](https://reactjs.org/docs/react-component.html)
+&nbsp; |[State and Lifecycle Methods](https://reactjs.org/docs/state-and-lifecycle.html) | [The problem with Class Components](https://itnext.io/react-class-components-are-dead-hint-not-yet-1d0a151173b8)
 Hooks | [Hooks Intro](https://reactjs.org/docs/hooks-intro.html)
 &nbsp; | [Hooks have important rules!!](https://reactjs.org/docs/hooks-rules.html)
 The basic hooks | [useState](https://www.youtube.com/watch?v=9xhKH43llhU)
 &nbsp; | [useEffect](https://www.youtube.com/watch?v=j1ZRyw7OtZs) | [Complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/)
+
+## Advanced React
+Topic    |   Getting Started   |Advanced
+---------|---------------------|--------
 More hooks | [useContext](https://www.youtube.com/watch?v=lhMKvyLRWo0)
 &nbsp; | [How to use useContext effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 &nbsp; | [useReducer](https://www.youtube.com/watch?v=wcRawY6aJaw)
