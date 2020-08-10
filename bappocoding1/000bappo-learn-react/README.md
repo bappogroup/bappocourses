@@ -28,7 +28,8 @@ Topic    |   Getting Started   |Advanced
 ---------|---------------------|--------
 What&nbsp;you&nbsp;don't&nbsp;need | [What you dont need to learn](https://vimeo.com/445431272/99599f7a74)
 Concepts | [React Main Concepts](https://reactjs.org/docs/hello-world.html)
-First Tutoral|  [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html) | [What is JSX?](https://reactjs.org/docs/jsx-in-depth.html)
+First Tutorial|  [Official React Tutorial](https://reactjs.org/tutorial/tutorial.html) | [What is JSX?](https://reactjs.org/docs/jsx-in-depth.html)
+The Concepts (1 - 12) |  [Concept 1](https://reactjs.org/docs/hello-world.html), [Concept 2](https://reactjs.org/docs/introducing-jsx.html) ... 10 more concepts, right hand menu
 How React works | [React under the hood](https://www.freecodecamp.org/news/react-under-the-hood/)
 React Native | [Why do I need to learn about react-native?](https://vimeo.com/445446985/01569eee6e)
 &nbsp; | [What is React Native](https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df) 
@@ -36,7 +37,6 @@ React Native | [Why do I need to learn about react-native?](https://vimeo.com/44
 &nbsp; | [React-native under the hood](https://www.youtube.com/watch?v=OnCio4h1J3M)
 React props and state | [React props](https://reactjs.org/docs/components-and-props.html)
 &nbsp; | [React State in Class Components](https://reactjs.org/docs/state-and-lifecycle.html)
-&nbsp; | State in Functional Components - refer to useState below
 Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0XScE08hy8)
 &nbsp; | [React dev tools video](https://www.youtube.com/watch?v=DQjMiKEwl_E) 
 **Mutating state** | [Why state should be treated as immutable](https://www.youtube.com/watch?v=4LzcQyZ9JOU&t=211s)
@@ -44,8 +44,12 @@ Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0X
 &nbsp; | [immer.js](https://www.youtube.com/watch?v=vsrhBUxfXQM)
 Keys | [Why list keys are important](https://www.youtube.com/watch?v=0sasRxl35_8)
 Class Components vs Hooks | [Learning Class Component vs Learning Hooks](https://vimeo.com/445472770/ace64e31ec)
-Class Components | [Class Component Syntax](https://reactjs.org/docs/components-and-props.html#function-and-class-components) | [React.Component reference](https://reactjs.org/docs/react-component.html)
-&nbsp; |[State and Lifecycle Methods](https://reactjs.org/docs/state-and-lifecycle.html) | [The problem with Class Components](https://itnext.io/react-class-components-are-dead-hint-not-yet-1d0a151173b8)
+Class Components | Refer to "The Concepts" above | [React.Component reference](https://reactjs.org/docs/react-component.html)
+&nbsp; | [The problem with Class Components](https://itnext.io/react-class-components-are-dead-hint-not-yet-1d0a151173b8)
+
+## Learning Hooks
+Topic    |   Getting Started   |Advanced
+---------|---------------------|--------
 Hooks | [Hooks Intro](https://reactjs.org/docs/hooks-intro.html)
 &nbsp; | [Hooks have important rules!!](https://reactjs.org/docs/hooks-rules.html)
 The basic hooks | [useState](https://www.youtube.com/watch?v=9xhKH43llhU)
