@@ -35,8 +35,6 @@ React Native | [Why do I need to learn about react-native?](https://vimeo.com/44
 &nbsp; | [What is React Native](https://medium.com/@thinkwik/react-native-what-is-it-and-why-is-it-used-b132c3581df) 
 &nbsp; | [The basic react-native components](https://reactnative.dev/docs/intro-react-native-components)
 &nbsp; | [React-native under the hood](https://www.youtube.com/watch?v=OnCio4h1J3M)
-React props and state | [React props](https://reactjs.org/docs/components-and-props.html)
-&nbsp; | [React State in Class Components](https://reactjs.org/docs/state-and-lifecycle.html)
 Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0XScE08hy8)
 &nbsp; | [React dev tools video](https://www.youtube.com/watch?v=DQjMiKEwl_E) 
 **Mutating state** | [Why state should be treated as immutable](https://www.youtube.com/watch?v=4LzcQyZ9JOU&t=211s)
@@ -45,11 +43,11 @@ Debugging and dev tools | [Chrome dev tools](https://www.youtube.com/watch?v=H0X
 Keys | [Why list keys are important](https://www.youtube.com/watch?v=0sasRxl35_8)
 Class Components vs Hooks | [Learning Class Component vs Learning Hooks](https://vimeo.com/445472770/ace64e31ec)
 Class Components | Refer to "The Concepts" above | [React.Component reference](https://reactjs.org/docs/react-component.html)
-&nbsp; | [The problem with Class Components](https://itnext.io/react-class-components-are-dead-hint-not-yet-1d0a151173b8)
 
 ## Learning Hooks
 Topic    |   Getting Started   |Advanced
 ---------|---------------------|--------
+The problem | [The problem with Class Components](https://itnext.io/react-class-components-are-dead-hint-not-yet-1d0a151173b8)
 Hooks | [Hooks Intro](https://reactjs.org/docs/hooks-intro.html)
 &nbsp; | [Hooks have important rules!!](https://reactjs.org/docs/hooks-rules.html)
 The basic hooks | [useState](https://www.youtube.com/watch?v=9xhKH43llhU)
